@@ -1,0 +1,27 @@
+
+********************
+COMMANDS INCLUDE
+********************
+create: make a new user 
+syntax: create <user> <password>
+
+password: change a user password
+syntax: password <user> <old_password> <new_password> 
+
+login: login as a user
+syntax: login <user> <password>
+
+quit: exit the client
+syntax: quit
+
+********************
+COMMANDS ONLY USERS
+********************
+list: list all users logged
+syntax: list 
+
+logout: logout the current user
+syntax: logout
+
+message: send a message to another user
+syntax: message <user> <message>

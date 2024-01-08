@@ -1,0 +1,18 @@
+
+********************
+COMMANDS INCLUDE
+********************
+list: print all logged users
+syntax: list 
+
+time: print the seconds since the start of server
+syntax: time
+
+reset: clean all users registers 
+syntax: reset
+
+quit: close the server 
+syntax: quit
+
+help: explain the commands
+syntax: help
